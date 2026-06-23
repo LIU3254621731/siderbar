@@ -1,0 +1,4 @@
+<Project>
+  <!-- Bypass XAML compiler due to environment issue -->
+  <Target Name="MarkupCompilePass1" />
+</Project>

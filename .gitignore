@@ -1,0 +1,27 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+bin/
+obj/
+Debug/
+Release/
+x64/
+
+# VS Code
+.vscode/
+
+# IDE
+.claude/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+*.exe
+*.dll
+*.pdb
